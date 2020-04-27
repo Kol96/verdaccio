@@ -1,0 +1,6 @@
+/log/*
+!/log/.gitkeep
+/storage/data
+/storage/htpasswd
+
+.DS_Store
